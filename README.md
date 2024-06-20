@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+<h1 align="left"></h1>
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/Core_flutter_exam_2/assets/148859956/43f04947-d54f-4e62-8595-ef7bdd8ec301.mp4" type="video/mp4"> 
+</video>
+</div>
 
-This project is a starting point for a Flutter application.
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/Core_flutter_exam_2/assets/148859956/165ac9b8-ff54-4e9e-9a0b-bd2b5159d5c0" />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/Core_flutter_exam_2/assets/148859956/120e59a1-8832-4de9-af9d-c92c2783fd63" />
+</div>
