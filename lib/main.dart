@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'Screens/homepage/homepage.dart';
+import 'Screens/AddScreen/FirstScreen.dart';
+import 'Screens/AddScreen/homepage.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +16,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/' : (context) => HomePage(),
+        '/' : (context) => FirstScreen(),
+        '/AddScreen' : (context) => AddScreen(),
       },
     );
   }
